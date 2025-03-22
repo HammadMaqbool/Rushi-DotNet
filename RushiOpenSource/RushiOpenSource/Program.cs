@@ -8,3 +8,4 @@ Console.WriteLine("Please enter value two");
 valuetwo = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("The sum of two values is: " + (valueone + valuetwo));
+Console.WriteLine("The difference of two values is: " + (valueone - valuetwo));
